@@ -14,4 +14,11 @@ Structure of Uploaded File
    | ```Root Folder``` |   |   
    |   | ```Your Created Folder``` |   
    |   |   | ```Your Uploaded File```
+   
+| Structure       |            |   |
+| ------------- |-------------  | -----|
+| Google drive  |               |  |
+|     | ``Root Folder```|   |
+|  |  |  ```Your Created Folder```   |
+|  |  |    | ```Your Uploaded File```
 
