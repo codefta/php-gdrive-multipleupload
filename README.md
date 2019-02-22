@@ -8,14 +8,9 @@
 
 Structure of Uploaded File
 
-```Google Drive``` |  yyyy |  yyyy | yyyy
+```Google Drive``` |  n |  n | n
 ---|---|---|---
-yyyy | ```Root Folder``` |   |   
+   | ```Root Folder``` |   |   
    |   | ```Your Created Folder``` |   
    |   |   | ```Your Uploaded File```
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
