@@ -15,10 +15,10 @@ Structure of Uploaded File
    |   | ```Your Created Folder``` |   
    |   |   | ```Your Uploaded File```
    
-| Structure       |            |   |
-| ------------- |-------------  | -----|
-| Google drive  |               |  |
-|     | ``Root Folder```|   |
-|  |  |  ```Your Created Folder```   |
-|  |  |    | ```Your Uploaded File```
+| Structure       |            |   |    |
+| ------------- |-------------  | -----| ------ |
+| Google drive  |               |  |  |
+|     | ``Root Folder```|   |  |
+|  |  |  ```Your Created Folder```   |   |
+|  |  |    | ```Your Uploaded File```|
 
