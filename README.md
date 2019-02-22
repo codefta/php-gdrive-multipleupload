@@ -7,18 +7,11 @@
 5. Enjoy.. keep explore!!!
 
 Structure of Uploaded File
-
-`Structure | - | - | -
----|---|---|---
-```Google Drive``` |  |  |
-   | ```Root Folder``` |   |   
-   |   | ```Your Created Folder``` |   
-   |   |   | ```Your Uploaded File```
    
-| Structure       |            |   |    |
+| Structure       |
 | ------------- |-------------  | -----| ------ |
-| Google drive  |               |  |  |
-|     | ``Root Folder```|   |  |
+| ```Google drive```  |               |  |  |
+|     | ```Root Folder```|   |  |
 |  |  |  ```Your Created Folder```   |   |
 |  |  |    | ```Your Uploaded File```|
 
