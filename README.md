@@ -5,3 +5,10 @@
 3. Install composer in your project directory. ```composer require google/apiclient```
 4. Put your key in ```vendor/google/apiclient-services```
 5. Enjoy.. keep explore!!!
+
+Structure of Uploaded File
+
+```Google Drive``` |   |   |
+   | ``Root Folder``` |   |   
+   |   | ```Your Created Folder``` |   
+   |  |  | ```Your Uploaded File```
