@@ -8,7 +8,7 @@
 
 Structure of Uploaded File
 
-```Google Drive``` |  n |  n | n
+```Google Drive``` |  n |  n | 
 ---|---|---|---
    | ```Root Folder``` |   |   
    |   | ```Your Created Folder``` |   
