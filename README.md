@@ -9,6 +9,7 @@
 Structure of Uploaded File
 
 ```Google Drive``` |   |   |
-   | ``Root Folder``` |   |   
+---|---|---|---
+   | ```Root Folder``` |   |   
    |   | ```Your Created Folder``` |   
-   |  |  | ```Your Uploaded File```
+   |   |   | ```Your Uploaded File```
