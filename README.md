@@ -8,7 +8,7 @@
 
 Structure of Uploaded File
    
-| Structure       |
+| Structure       | | | |
 | ------------- |-------------  | -----| ------ |
 | ```Google drive```  |               |  |  |
 |     | ```Root Folder```|   |  |
